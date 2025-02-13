@@ -16,7 +16,7 @@ goa-village-website
 │   └── index.css         # Styles for layout, navbar, and containers
 ├── assets
 │   └── images             # Directory for all images used in the website
-└── README.md              # Documentation for the project
+└── README.md              # Documentation for the project 
 ```
 
 ## Setup Instructions
