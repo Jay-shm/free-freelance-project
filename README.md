@@ -9,7 +9,7 @@ goa-village-website
 ├── pages
 │   ├── index.html        # Homepage with navbar and floating container
 │   ├── about-goa.html    # Information about Goa's culture and traditions 
-│   ├── rural-life.html    # Showcases rural life and daily activities
+│   ├── rural-life.html    # Showcases rural life and daily activities 
 │   ├── festivals.html     # Details on festivals celebrated in Goa
 │   └── cuisine.html       # Presentation of traditional Goan cuisine
 ├── css
