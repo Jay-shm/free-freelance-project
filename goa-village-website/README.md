@@ -24,6 +24,6 @@ goa-village-website
 2. Open the `index.html` file in a web browser to view the homepage. 
 3. Navigate through the website using the navbar to explore different sections. 
 
-## Additional Information
+## Additional Information 
 - Ensure that all images are placed in the `assets/images` directory. 
 - Modify the `css/index.css` file to customize the appearance of the website as needed. 
