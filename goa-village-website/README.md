@@ -11,7 +11,7 @@ goa-village-website
 │   ├── about-goa.html    # Information about Goa's culture and traditions
 │   ├── rural-life.html    # Showcases rural life and daily activities
 │   ├── festivals.html     # Details on festivals celebrated in Goa
-│   └── cuisine.html       # Presentation of traditional Goan cuisine
+│   └── cuisine.html       # Presentation of traditional Goan cuisine 
 ├── css
 │   └── index.css         # Styles for layout, navbar, and containers
 ├── assets
