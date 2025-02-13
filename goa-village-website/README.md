@@ -26,4 +26,4 @@ goa-village-website
 
 ## Additional Information
 - Ensure that all images are placed in the `assets/images` directory.
-- Modify the `css/index.css` file to customize the appearance of the website as needed.
+- Modify the `css/index.css` file to customize the appearance of the website as needed. 
