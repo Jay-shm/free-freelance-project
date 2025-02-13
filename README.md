@@ -17,7 +17,7 @@ goa-village-website
 ├── assets
 │   └── images             # Directory for all images used in the website
 └── README.md              # Documentation for the project
-```
+``` 
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
