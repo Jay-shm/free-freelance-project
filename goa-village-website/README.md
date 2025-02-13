@@ -20,7 +20,7 @@ goa-village-website
 ```
 
 ## Setup Instructions
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine. 
 2. Open the `index.html` file in a web browser to view the homepage.
 3. Navigate through the website using the navbar to explore different sections. 
 
