@@ -25,5 +25,5 @@ goa-village-website
 3. Navigate through the website using the navbar to explore different sections. 
 
 ## Additional Information
-- Ensure that all images are placed in the `assets/images` directory.
+- Ensure that all images are placed in the `assets/images` directory. 
 - Modify the `css/index.css` file to customize the appearance of the website as needed. 
