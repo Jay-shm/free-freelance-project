@@ -7,7 +7,7 @@ This project is a website titled "Goa Beyond Beaches: Rural Life and Villages." 
 ```
 goa-village-website
 ├── pages
-│   ├── index.html        # Homepage with navbar and floating container
+│   ├── index.html        # Homepage with navbar and floating container 
 │   ├── about-goa.html    # Information about Goa's culture and traditions
 │   ├── rural-life.html    # Showcases rural life and daily activities
 │   ├── festivals.html     # Details on festivals celebrated in Goa
